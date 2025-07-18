@@ -1,0 +1,27 @@
+# Jupyter Notebook geçici dosyaları
+.ipynb_checkpoints/
+
+# Visual Studio / VSCode ayar klasörleri
+.vs/
+.vscode/
+
+# Python derleme dosyaları
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Streamlit önbellek ve yapılandırmaları
+.streamlit/
+
+# Artifacts ve geçici klasörler
+artifacts/
+
+# ZIP arşivleri (veri dosyalarının açılmış halleri eklenecekse)
+*.zip
+
+# Mac / Windows sistem dosyaları
+.DS_Store
+Thumbs.db
+
+# Ortam dosy
+MovieRecommender/
